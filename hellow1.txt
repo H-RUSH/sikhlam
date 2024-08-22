@@ -1,2 +1,3 @@
 hellow my name is himadry and im in here 
 i dont know what happened but its seems ok 
+hellow this is day 2 of learning git 
